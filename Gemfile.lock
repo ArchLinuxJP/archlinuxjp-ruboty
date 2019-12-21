@@ -30,7 +30,7 @@ GEM
     multipart-post (2.0.0)
     qiita_scouter (0.0.1)
       thor (~> 0.18.1)
-    rack (1.6.4)
+    rack (2.0.8)
     rake (10.4.2)
     redis (3.2.1)
     redis-namespace (1.5.2)
